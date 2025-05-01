@@ -43,7 +43,7 @@
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
-        <maven-resource-plugin.version>3.2.0</maven-resource-plugin.version>
+        <maven-resource-plugin.version>3.3.1</maven-resource-plugin.version>
         <maven-shade-plugin.version>3.2.4</maven-shade-plugin.version>
         <logback.version>1.5.16</logback.version>
         <junit-jupiter.version>5.4.0</junit-jupiter.version>
